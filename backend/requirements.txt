@@ -1,0 +1,4 @@
+Flask==2.1.2
+transformers==4.21.1  # Hugging Face Summarizer
+torch==1.12.1  # Required for Hugging Face models
+openai==0.27.0  # Alternative API if using OpenAI's GPT for summarization
